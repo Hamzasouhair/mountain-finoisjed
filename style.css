@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+#mycanvas {
+  border: 2px solid black;
+}
+
+#cloudEl {
+  display: none;
+}
+
+#clouds-set {
+  display: none;
+}
